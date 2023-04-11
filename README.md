@@ -12,4 +12,5 @@ Eto moy perviy proekt tut
 
 ```python
 print("Hello world!")
+print("🍴")
 ```
