@@ -1,4 +1,4 @@
-# Perviy_proekt_na_etom_sayte_ot_menya
+# Perviy_proekt_na_etom_sayte_ot_menya (FORK)
 Eto moy perviy proekt tut
 
 ## Vtoraya
@@ -9,3 +9,8 @@ Eto moy perviy proekt tut
 * Punkt 3
 
 `moi code`
+
+```python
+print("Hello world!")
+print("🍴")
+```
